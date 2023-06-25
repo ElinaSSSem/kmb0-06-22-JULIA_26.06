@@ -5,8 +5,10 @@
 4. Лисютин Денис   https://github.com/Denis06-22/Robot
 5. Молоненко Александра   https://github.com/ling23yuan/AlexandraM
 6. Шлёнская Алеся   https://github.com/Shlyonskaya/KMBO-06-22
-7. Страхов Вячеслав
+7. Страхов Вячеслав   https://github.com/LocoloN/Julia-2sem
 8. Симонов Иван   https://github.com/Simonov-Ivan/KMBO-06-22_2sem
 9. Семенидо Алина   https://github.com/ElinaSSSem/Semenido-KMBO-06-22/tree/main/Julia
 10. Аксаев Арслан   https://github.com/MrSardina/2-semester-kmbo-06-22
 11. Шифрин Марк   https://github.com/MarkusDarkus/Julia_code/tree/main
+12. Ким Елена   https://github.com/LIKIona/2.liki
+13. Денисов Константин   https://github.com/Kuvvi/2s
