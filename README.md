@@ -12,3 +12,10 @@
 11. Шифрин Марк   https://github.com/MarkusDarkus/Julia_code/tree/main
 12. Ким Елена   https://github.com/LIKIona/2.liki
 13. Денисов Константин   https://github.com/Kuvvi/2s
+14. Пермяков Кирилл   https://github.com/Permyakov-Kirill/P5
+15. Пугачев Даниил   https://github.com/Suukehiro/dz_algorithmica/tree/main/2%20SEM%20DZ%20ALGORITHMICA/Julia
+
+# Список уже допущенных
+16. Голубин Константи
+17. Червень Дмитрий
+18. Горский Тимофей 
